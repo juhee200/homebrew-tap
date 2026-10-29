@@ -1,6 +1,6 @@
 cask "pr-ai-reviewer" do
-  version "0.3.0"
-  sha256 "a4e3b64792f8c542c149a97ebe43ffc1b7ed20946cd3aaa5d8fddc7d18e9a5b9"
+  version "0.3.1"
+  sha256 "f9e0c3fa5b45a891032fd07f23d258f6064d0947eadf991287e34906466ad945"
 
   url "https://github.com/juhee200/pr-ai-reviewer/releases/download/v#{version}/pr-ai-reviewer-#{version}.zip"
   name "PR AI Reviewer"
