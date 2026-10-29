@@ -8,7 +8,7 @@ cask "pr-ai-reviewer" do
   homepage "https://github.com/juhee200/pr-ai-reviewer"
 
   depends_on formula: ["gh", "node"]
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "PR AI Reviewer.app"
 
