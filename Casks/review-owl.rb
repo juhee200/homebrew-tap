@@ -1,6 +1,6 @@
 cask "review-owl" do
-  version "0.6.0"
-  sha256 "2be55c03253d8a51748ec019c81851cc624ba4ac840d835de58e6143bdcaad8d"
+  version "0.7.0"
+  sha256 "756fd4d9fa2389dd25d5834334af8c1e01f9dd60b1edb559a80e9b22a022eac9"
 
   url "https://github.com/juhee200/review-owl/releases/download/v#{version}/review-owl-#{version}.zip"
   name "리뷰엉이"
